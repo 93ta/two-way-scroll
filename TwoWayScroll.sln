@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWayScroll.iOS", "TwoWayScroll.iOS\TwoWayScroll.iOS.csproj", "{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Release|iPhone.Build.0 = Release|iPhone
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3FD35F61-55F7-4D84-B86D-F97A7719FEFB}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
